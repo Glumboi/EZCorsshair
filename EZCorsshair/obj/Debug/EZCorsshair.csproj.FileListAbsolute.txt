@@ -1,0 +1,11 @@
+F:\visual studio\repos\EZCorsshair\EZCorsshair\bin\Debug\EZCorsshair.exe.config
+F:\visual studio\repos\EZCorsshair\EZCorsshair\bin\Debug\EZCorsshair.exe
+F:\visual studio\repos\EZCorsshair\EZCorsshair\bin\Debug\EZCorsshair.pdb
+F:\visual studio\repos\EZCorsshair\EZCorsshair\obj\Debug\EZCorsshair.csproj.AssemblyReference.cache
+F:\visual studio\repos\EZCorsshair\EZCorsshair\obj\Debug\EZCorsshair.csproj.SuggestedBindingRedirects.cache
+F:\visual studio\repos\EZCorsshair\EZCorsshair\obj\Debug\EZCorsshair.Form1.resources
+F:\visual studio\repos\EZCorsshair\EZCorsshair\obj\Debug\EZCorsshair.Properties.Resources.resources
+F:\visual studio\repos\EZCorsshair\EZCorsshair\obj\Debug\EZCorsshair.csproj.GenerateResource.cache
+F:\visual studio\repos\EZCorsshair\EZCorsshair\obj\Debug\EZCorsshair.csproj.CoreCompileInputs.cache
+F:\visual studio\repos\EZCorsshair\EZCorsshair\obj\Debug\EZCorsshair.exe
+F:\visual studio\repos\EZCorsshair\EZCorsshair\obj\Debug\EZCorsshair.pdb
