@@ -30,3 +30,6 @@ V 0.5:
 -First version of the app that is mostly finished 
 -Updated the GUI so i can release it
 -Added different color settings
+
+![alt text](https://i.ibb.co/tzXG9Q3/EZCrosshair-0-5-GUI.jpg)
+
