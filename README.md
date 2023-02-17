@@ -17,7 +17,7 @@ i focus on making it display in most games in borderless fullscreen since it onl
 =============================================================================
 How to use:
 Just open the app and setup your crosshairs look (size and color) and then press the draw button if you want to change you settings press hide
-and change you settings after that pres draw again and i should change.
+and change you settings after that pres draw again and it should change.
 
 HAVE FUN USING IT!
 ==================
