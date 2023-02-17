@@ -14,8 +14,6 @@ ones i learned more about how crosshair apps work.
 
 Currently it displays a form which is either 2 by 2, 5 by 5 or 10 by 10 pixels. Later on i want to also include real crosshairs but at the moment
 i focus on making it display in most games in borderless fullscreen since it only works in a couple games and ONLY in borderless fullscreen.
-
-Feel free to modify or re release this app but i would like to get credits :).
 =============================================================================
 How to use:
 Just open the app and setup your crosshairs look (size and color) and then press the draw button if you want to change you settings press hide
